@@ -14,3 +14,20 @@ On Websocket and auth:
 
 - https://ably.com/blog/websocket-authentication#:~:text=While%20the%20WebSocket%20browser%20API,token%20in%20the%20request%20header!
 - http://iostreamer.me/ws/node.js/jwt/2016/05/08/websockets_authentication.html
+
+## Getting Started
+
+In terminal window 1:
+
+```shell
+npm install
+npm run start
+```
+
+In terminal window 2:
+
+```shell
+cd client
+npm install
+npm run dev
+```
